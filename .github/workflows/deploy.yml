@@ -38,7 +38,7 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           REMOTE_HOST: ${{ secrets.SERVER_IP }}
           REMOTE_USER: ${{ secrets.SERVER_USER }}
-          PORT: ${{ secrets.SSH_PORT }}
+          REMOTE_PORT: ${{ secrets.SSH_PORT }}
           SOURCE: "_site/"
           TARGET: "/srv/thingswithstuff.net/html/"
           ARGS: "-avz --delete"
