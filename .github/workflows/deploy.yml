@@ -18,6 +18,7 @@ jobs:
         with:
           ruby-version: '3.0.2'
           bundler-cache: true
+          bundler: 2.4.22
 
       - name: Install dependencies
         run: bundle install
