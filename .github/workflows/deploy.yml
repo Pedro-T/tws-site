@@ -10,8 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+
+      - name: Checkout code with LFS
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -19,6 +22,9 @@ jobs:
           ruby-version: '3.0.2'
           bundler-cache: true
           bundler: 2.5.23
+
+      - name: Update gems
+        run: gem update --system
 
       - name: Install dependencies
         run: bundle install
