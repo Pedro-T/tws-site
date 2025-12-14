@@ -1,0 +1,13 @@
+---
+---
+// OVERRIDES
+
+@charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.resume-page {
+  .page__content {
+    font-size: 0.85em; // Use !important to force the override
+  }
+}
