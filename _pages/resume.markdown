@@ -18,18 +18,23 @@ classes: wide resume-page # custom font adjust class
 
 - Python scripting: data analysis, task automation, ReportLab, pandas
 - Java programming: desktop apps, Swing
+- HTML / CSS
 - Godot 4.x / GDScript
 - Git / GitHub
+- Azure DevOps, Jira
 - Linux system administration
 - Requirements analysis & documentation
 - Teaching and technical training
-- Extensive knowledge of ISO20022 payment formats
+- Extensive knowledge of ISO20022 payment formats Swift/Fedwire/CHIPS
+- ACI Money Transfer System, FircoSoft Continuity, MicroStrategy Reporting
 
 ## Currently Learning
 
-- C# and ASP.Net
+- C# and ASP.NET
+- JetBrains YouTrack
 - SQL
 - Jekyll
+- GitHub Actions
 - Godot 4.x 3D
 - Blender
 
