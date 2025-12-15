@@ -16,9 +16,9 @@ classes: wide resume-page # custom font adjust class
 
 ## Skills
 
-- Python scripting: data analysis, task automation, ReportLab, pandas
-- Java programming: desktop apps, Swing
-- HTML / CSS
+- Python: data analysis, task automation, ReportLab, pandas
+- Java: desktop apps, Swing
+- HTML / CSS, Jekyll
 - Godot 4.x / GDScript
 - Git / GitHub
 - Azure DevOps, Jira
@@ -33,7 +33,6 @@ classes: wide resume-page # custom font adjust class
 - C# and ASP.NET
 - JetBrains YouTrack
 - SQL
-- Jekyll
 - GitHub Actions
 - Godot 4.x 3D
 - Blender
