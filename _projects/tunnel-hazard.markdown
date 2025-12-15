@@ -2,7 +2,7 @@
 layout: single
 title: "Tunnel Hazard"
 excerpt: "A 2D browser game about dodging tools and collecting cats."
-permalink: /projects/tunnel-hazard
+permalink: /projects/tunnel-hazard/
 date:   2025-12-14
 classes: wide
 ---

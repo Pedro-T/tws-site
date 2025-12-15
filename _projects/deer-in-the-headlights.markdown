@@ -2,7 +2,7 @@
 layout: single
 title: "Deer in the Headlights"
 excerpt: "A 2D browser game about a deer trying to escape its fate."
-permalink: /projects/deer-in-the-headlights
+permalink: /projects/deer-in-the-headlights/
 date:   2025-12-14
 classes: wide
 ---

@@ -5,7 +5,7 @@ excerpt: "Post-mortem write-up of my 2025 '20 Second Game Jam' entry"
 date:   2025-12-13 14:10:39 -0500
 tags: godot gamejam 2d
 categories: postmortem
-permalink: /posts/dith-postmortem
+permalink: /posts/dith-postmortem/
 toc: true
 toc_sticky: true
 toc_label: "Contents"
