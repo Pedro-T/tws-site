@@ -131,6 +131,9 @@ author:
     - label: "Itch"
       icon: "fab fa-fw fa-itch-io"
       url: "https://turtlesmock.itch.io/"
+    - label: "GoodReads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/125950989-pedro"
 
 # Site Footer
 footer:
