@@ -3,7 +3,7 @@ layout: single
 title: "Tunnel Hazard"
 excerpt: "A 2D browser game about dodging tools and collecting cats."
 permalink: /projects/tunnel-hazard/
-date:   2025-12-14
+date:   2025-12-17
 toc: true
 toc_label: Contents
 toc_sticky: true
@@ -16,7 +16,7 @@ Tunnel Hazard is a small game inspired by the classic Game and Watch game Helmet
 
 <p class="notice">This game is <i>in development</i> and undergoing continuous changes. A playable development build is available on Itch and is updated at the conclusion of each iteration cycle, provided the current state is stable.<br /><a href="#roadmap">Jump to Roadmap</a></p>
 
-// placeholder for itch.io iframe //
+<iframe class="align-center" frameborder="0" src="https://itch.io/embed/4125192?bg_color=4f6781&amp;fg_color=ffffff" width="552" height="167"><a href="https://turtlesmock.itch.io/tunnel-hazard">Tunnel Hazard by TurtleSmock</a></iframe>
 
 ### Tech / Tools
 
