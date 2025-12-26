@@ -2,8 +2,8 @@
 layout: single
 title:  "Post-Mortem: Tunnel Hazard"
 excerpt: "Post-mortem write-up of Tunnel Hazard, a small game inspired by the classic Helmet handheld."
-date:   2025-12-31 14:10:39 -0500
-tags: godot gamejam 2d
+date:   2025-12-27 08:10:39 -0500
+tags: godot 2d tunnel-hazard
 categories: postmortem
 permalink: /posts/th-postmortem/
 toc: true
@@ -160,9 +160,13 @@ for file in stage_files:
 
 <p>Plus, I have 100% five-star and <strong><i>totally unbiased</i></strong> reviews at the time of writing. So that's nice.</p>
 
+## Outcome & Self-Evaluation
+
+<p>I'd say the project has been a success for its intended purpose. The planned mechanics were implemented, it plays reasonably well and there are no major issues that I'm aware of. I rate it a B+ when factoring in the experience level and time spent. This is now the second small game that I've managed to take from zero to complete and paves the way for moving to the next larger project once I finish its two planned updates.</p>
+
 ## Future Plans
 
-<p>From the midpoint of the project I had planned to scope this for a release followed by one to three further updates while I start work in parallel on my next project. While typng up this post, update one is halfway done and should be published by end of month. The high level roadmap is on the <a href="/projects/tunnel-hazard/">project page</a>.</p>
+<p>From the midpoint of the project I had planned to scope this for a release followed by two further updates while I start work in parallel on my next project. While typng up this post, update one is halfway done and should be published by end of month. The high level roadmap is on the <a href="/projects/tunnel-hazard/">project page</a>. The next project is in the prototyping stage and not fully decided yet.</p>
 
 ## Play It
 
