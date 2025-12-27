@@ -9,6 +9,10 @@ permalink: /posts/th-postmortem/
 toc: true
 toc_label: "Contents"
 toc_sticky: true
+art_gallery:
+  - image_path: "/assets/image/posts/th-pm/hammer.png"
+  - image_path: "/assets/image/posts/th-pm/tg.png"
+  - image_path: "/assets/image/posts/th-pm/vending_machine.png"
 ---
 
 ## Inspiration
@@ -37,6 +41,18 @@ I played a LOT of this game in 1999-2000 and when thinking of an interesting sma
 <p>I worked in two-week cycles at a fairly easy pace throughout the ~2.5 months (counting the few weeks in late 2024 before it was shelved for a while). Time tracking was pretty loose but I estimate around forty-five hours of work from start to release.</p>
 
 <p><strong>Development</strong> was done in Godot 4.5 using VSCodium rather than the embedded editor. This was quite easy to set up and I very much prefer VSCode's layout / tabs and explorer setup. It also gives me a very convenient and simple VCS integration panel - almost all of my commits are done in this manner. I did try out the Godot VCS integration plugin but ran into some unfortunate tendency to crash often.</p>
+
+## Art
+
+<p>All art was created by myself using Aseprite, which is an excellent piece of software and very reasonably priced.</p>
+
+<p>Art has never been my strong suit. I'm the sort of person who can barely draw basic figures. So that was definitely a challenge coming in and part of the reason for sticking with a simple style. The very first sprite drawn (during the initial period a year before) was the player sprite - and it shows. The character is very basic with no shading and simplistic lines. I've opted not to use any art at all from other sources as a sort of forced practice and the improvement has actually been quite nice. While I would not consider myself a good artist by any means still, the skill progression from the first falling tool sprite and player character to some of the newer stuff is quite apparent.</p>
+
+<div class="pixel-art-img">
+{% include gallery id="art_gallery" caption="Game art progression from the first tool sprite to a vending machine from the later stages" %}
+</div>
+
+<p>At this point the character and a few other bits are long overdue for an overhaul, though I'm not sure if I will get to it in the planned updates.While unbalanced art quality can start to look pretty bad I haven't improved <strong>that</strong> much to where it's an issue.</p>
 
 
 ## Movement - Flaws and 'Temporary' Hacks
@@ -156,7 +172,7 @@ for file in stage_files:
 
 ## Player Feedback
 
-<p>This is a small project with zero advertising, so the plays thus have have come from friends conscripted into testing it out. Taking the feedback as skewed positively because... well, friends... it's been good. A few bits of feedback have been tagged to future updates, such as the movement system rework. There are a few mechanic aspects that aren't quite clear enough as well which will be addressed. Input from other people is absolutely key because something like "you can only carry one cat" is obvious to me but not really clear from gameplay to someone who doesn't already know.</p>
+<p>This is a small project with zero advertising, so the plays thus far have come from friends conscripted into testing it out. Taking the feedback as skewed positively because... well, friends... it's been good. A few bits of feedback have been tagged to future updates, such as the movement system rework. There are a few mechanic aspects that aren't quite clear enough as well which will be addressed. Input from other people is absolutely key because something like "you can only carry one cat" is obvious to me but not really clear from gameplay to someone who doesn't already know.</p>
 
 <p>Plus, I have 100% five-star and <strong><i>totally unbiased</i></strong> reviews at the time of writing. So that's nice.</p>
 
@@ -166,7 +182,7 @@ for file in stage_files:
 
 ## Future Plans
 
-<p>From the midpoint of the project I had planned to scope this for a release followed by two further updates while I start work in parallel on my next project. While typng up this post, update one is halfway done and should be published by end of month. The high level roadmap is on the <a href="/projects/tunnel-hazard/">project page</a>. The next project is in the prototyping stage and not fully decided yet.</p>
+<p>From the midpoint of the project I had planned to scope this for a release followed by two further updates while I start work in parallel on my next project. While typing up this post, update one is halfway done and should be published by end of month. The high level roadmap is on the <a href="/projects/tunnel-hazard/">project page</a>. The next project is in the prototyping stage and not fully decided yet.</p>
 
 ## Play It
 
