@@ -11,3 +11,22 @@
     font-size: 0.85em; // Use !important to force the override
   }
 }
+
+.pixel-art-img {
+  image-rendering: pixelated;
+}
+
+.pixel-art-img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-40-width {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  width: 40%;
+  height: auto;
+  aspect-ratio: 11 / 20;
+}
