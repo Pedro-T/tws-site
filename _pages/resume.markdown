@@ -16,19 +16,26 @@ classes: wide resume-page # custom font adjust class
 
 ## Skills
 
+### Software & Game Development
+
 - Python: data analysis, task automation, ReportLab, pandas
 - Java: desktop apps, Swing
 - HTML / CSS, Jekyll
 - Godot 4.x / GDScript
+- Aseprite
 - Git / GitHub
 - Azure DevOps, Jira
 - Linux system administration
+
+### General / Financial Industry
+
 - Requirements analysis & documentation
 - Teaching and technical training
 - Extensive knowledge of ISO20022 payment formats Swift/Fedwire/CHIPS
 - ACI Money Transfer System, FircoSoft Continuity, MicroStrategy Reporting
+- MS Office Suite / Excel
 
-## Currently Learning
+### Currently Learning
 
 - C# and ASP.NET
 - JetBrains YouTrack
@@ -36,6 +43,7 @@ classes: wide resume-page # custom font adjust class
 - GitHub Actions
 - Godot 4.x 3D
 - Blender
+- Photoshop / Photopea
 
 
 ## Projects

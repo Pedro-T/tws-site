@@ -2,7 +2,7 @@
 layout: single
 title:  "Post-Mortem: Tunnel Hazard"
 excerpt: "Post-mortem write-up of Tunnel Hazard, a small game inspired by the classic Helmet handheld."
-date:   2025-12-27 08:10:39 -0500
+date:   2025-12-22 08:10:39 -0500
 tags: godot 2d tunnel-hazard
 categories: postmortem
 permalink: /posts/th-postmortem/
