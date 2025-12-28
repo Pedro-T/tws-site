@@ -76,7 +76,7 @@ position = move_start_pos + Vector2(GameConstants.TILE_SIZE * movement * movemen
 
 ### Getting the player out of the door
 
-<p>I had a bit of a challenge when needing the player to walk through the left door (entrance) at the beginning of each stage, since the space between safely hidded and out past the doorway was more than a movement 'slot' or background tile. The temporary solution was to add a movement "lock" which would force the character to move two 'slots' to the right initially, then unlock. This lock status is checked every time movement passes the next 'slot' position and is disabled, providing a 2 * tile size movement just once when set. Every stage transition sets the player status to moving right, then enables the lock.</p><p>Does it work? <strong>Yes</strong>.<br />Is it good? <strong>Nope!</strong></p>
+<p>I had a bit of a challenge when needing the player to walk through the left door (entrance) at the beginning of each stage, since the space between safely hidden and out past the doorway was more than a movement 'slot' or background tile. The temporary solution was to add a movement "lock" which would force the character to move two 'slots' to the right initially, then unlock. This lock status is checked every time movement passes the next 'slot' position and is disabled, providing a 2 * tile size movement just once when set. Every stage transition sets the player status to moving right, then enables the lock.</p><p>Does it work? <strong>Yes</strong>.<br />Is it good? <strong>Nope!</strong></p>
 
 ```gdscript
 # Part of the movement code within _process
