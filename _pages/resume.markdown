@@ -16,34 +16,26 @@ classes: wide resume-page # custom font adjust class
 
 ## Skills
 
-### Software & Game Development
-
-- Python: data analysis, task automation, ReportLab, pandas
+- Python: data analysis, task automation, ReportLab, pandas/polars
 - Java: desktop apps, Swing
-- HTML / CSS, Jekyll
+- HTML / CSS, Jekyll, Jinja2
 - Godot 4.x / GDScript
-- Aseprite
 - Git / GitHub
 - Azure DevOps, Jira
 - Linux system administration
-
-### General / Financial Industry
-
 - Requirements analysis & documentation
 - Teaching and technical training
 - Extensive knowledge of ISO20022 payment formats Swift/Fedwire/CHIPS
 - ACI Money Transfer System, FircoSoft Continuity, MicroStrategy Reporting
-- MS Office Suite / Excel
 
-### Currently Learning
+## Currently Learning
 
-- C# and ASP.NET
+- C# and .NET
 - JetBrains YouTrack
 - SQL
 - GitHub Actions
 - Godot 4.x 3D
 - Blender
-- Photoshop / Photopea
 
 
 ## Projects
@@ -54,8 +46,22 @@ See the [projects category][ctgy-projects].
 
 ### Standard Chartered Bank (Multiple Roles)
 
+#### Director, US Cash Ops PDC
+Apr 2026 to Present | Newark NJ (Hybrid)
+
+Supporting cash technology projects (ACH Expansion, MTS Upgrades, SR2026, SWIFT AMH Migration):
+- Review test results
+- Defect triage and management
+- MI dashboards & custom reports, custom ETL pipelines & data handling
+- Writing requirements documentation for initiatives of varying scale
+- External vendor engagement
+- Writing procedures
+- Automation of manual test efforts
+- SME for Swift/Fedwire/Chips payment formats, both ISO20022 and legacy variants
+
+---
 #### Lead - Product Design & Control, Americas
-Jul 2022 to Present | Newark, NJ
+Jul 2022 to Mar 2026 | Newark, NJ (Hybrid)
 
 Supporting implementation of various projects (SRVII checks, ACH product launch, CBPR+ launch, CHIPS ISO20022, SR2023, SR2024, Fedwire ISO20022, SR2025) across the Cash Management space:
  - Writing test cases, providing testing support and coordination
@@ -73,7 +79,7 @@ Supporting implementation of various projects (SRVII checks, ACH product launch,
 
 ---
 #### Manager - Transaction Screening Operations
-Apr 2022 to Jul 2022 | Newark, NJ
+Apr 2022 to Jul 2022 | Newark, NJ (Hybrid)
 
 Supported implementation of various projects across the Cash space:
  - UAT support, test case creation, and governance
@@ -99,7 +105,7 @@ Apr 2020 to Mar 2022 | Newark, NJ
 
 ---
 #### Transaction Screening Analyst
-May 2016 to Mar 2020 | Newark, NJ
+May 2016 to Mar 2020 | Newark, NJ (Hybrid)
 
 (contractor under Advantage xPO May 2016 - Sep 2016)
 - Performed sanctions screening of flagged transactions using MTS STOP and FircoSoft Continuity
@@ -110,7 +116,7 @@ May 2016 to Mar 2020 | Newark, NJ
 
 ---
 ### Desktop Support Specialist @ Budd Larner, P.C.
-Sep 2014 to Oct 2015 | Short Hills, NJ
+Sep 2014 to Oct 2015 | Short Hills, NJ (On-Site)
 - Primary point of support for 100+ users
 - Performed all functions of Help Desk and Desktop support
 - Organized and led technology training sessions for attorneys and support staff
@@ -119,7 +125,7 @@ Sep 2014 to Oct 2015 | Short Hills, NJ
 
 ---
 ### Substitute Teacher @ Lakeland Regional High School
-Dec 2013 to Sep 2014 | Wanaque, NJ
+Dec 2013 to Sep 2014 | Wanaque, NJ (On-Site)
 - Daily stand-in for absent teaching staff
 - Implemented provided lessons
 - Test proctor for state-mandated exams
